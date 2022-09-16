@@ -4,8 +4,7 @@ using UnityEngine;
 
 public class RunCode : MonoBehaviour
 {
-    public string codeVision = "vision 2.0";
-    public string updateStr = "new";
+    public string codeVision = "vision 3.0";
 
     // Start is called before the first frame update
     void Start()
